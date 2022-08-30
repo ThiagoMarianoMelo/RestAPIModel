@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z85/1ZQTNLpR3zWh+4sf6POhAeiC60k7F9HAjmIkPdASIMNtjanptCfS5i+peWuJyd34E/Mf6B/xR8V8yvYYGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\VScode Projects\\RestAPIModel\\RestAPIModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\sqlite\\3.12.3\\sqlite.3.12.3.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\sqlite.native\\3.12.3\\sqlite.native.3.12.3.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
